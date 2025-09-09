@@ -42,5 +42,3 @@
 <a target="_blank" href="https://www.instagram.com/lukasschneider" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
 </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
