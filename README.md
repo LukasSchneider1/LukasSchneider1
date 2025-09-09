@@ -1,7 +1,7 @@
 <p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?color=46e2a9&width=380&height=64&lines=Hi👋+I'm+Lukas...">
-    <p>Currently+studying+Computer+Science+in+Austria..;I+love+creating+different+types+of+websites+and+front-end+applications</p>
-    </a></p>
+    <p>currently studying computer science in Austria.I love creating different types of websites and front-end applications</p>    
+</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
