@@ -1,7 +1,6 @@
 <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?color=46e2a9&width=380&height=64&lines=Hi👋+I'm+Lukas...&">
+    <img src="https://readme-typing-svg.herokuapp.com?color=46e2a9&width=380&height=64&lines=Hi👋+I'm+Lukas...;Currently+studying+Computer+Science+in+Austria..;I+love+creating+different+types+of+websites+and+front-end+applications.&">
     </a></p>
-<p>A passionate frontend developer from Austria</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
