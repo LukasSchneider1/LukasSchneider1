@@ -88,9 +88,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=46e2a9" alt="Profile Views">
-</div>
 
 <div align="center">
   
