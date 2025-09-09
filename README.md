@@ -1,7 +1,7 @@
 # Hi 👋, I'm Lukas
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=46E2A9&center=true&vCenter=true&width=500&lines=Computer+Science+Student+🎓;UI%2FUX+Enthusiast+🎨;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=46E2A9&center=true&vCenter=true&width=500&lines=Computer+Science+Student+🎓;Always+Learning+🚀" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -44,7 +44,7 @@
 ### **Backend Development**
 <div align="left">
   
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 </div>
 
 ### **Databases**
@@ -73,15 +73,6 @@
 
 </div>
 
-### **Design & Creative**
-<div align="left">
-  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
 ---
 
 
@@ -103,6 +94,6 @@
 
 <div align="center">
   
-**"Good vibes only"**🤙 
+**"Good vibes only"** 🤙 
 
 </div>
