@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm Lukas</h1>
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Lukas&center=true">
+    </a></p>
 <p>A passionate frontend developer from Austria</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
