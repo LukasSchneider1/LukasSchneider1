@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=46E2A9&center=true&vCenter=true&width=500&lines=Computer+Science+Student+🎓;Always+Learning+🚀" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  Currently studying computer science in Austria 🇦🇹<br>
+<p align="center">  
   Passionate about creating innovative web applications and stunning user interfaces
 </p>
 
